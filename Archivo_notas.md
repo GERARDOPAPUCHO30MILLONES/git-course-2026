@@ -15,3 +15,5 @@ guarda los cambios del stating area
 # git push 
 subir cambios  a *remote* (server)
 `git push <remote><branch>`: 
+
+## prueba de cambio a ver que pedo
